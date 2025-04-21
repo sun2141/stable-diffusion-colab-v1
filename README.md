@@ -7,6 +7,7 @@
 - LoRA 학습 자동화
 - HuggingFace 업로드
 - Gradio UI 기반 이미지 생성기
+- GitHub Actions로 자동 테스트
 
 ## 🚀 Colab에서 바로 실행
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sun2141/stable-diffusion-colab-v1/blob/main/notebooks/auto_train_lora.ipynb)
